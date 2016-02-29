@@ -1,0 +1,82 @@
+body {
+	font-family: 'EB Garamond', serif;
+	color: #958B82;
+	background-color: #F1E4B0;
+}
+
+nav ul {
+	margin: 24px 0;
+	font-size: 1em;
+	font-weight: 500;
+	list-style-type: none;
+	vertical-align: middle;
+}
+
+nav img {
+	vertical-align: middle;
+	height: 80px;
+	width: 80px;
+}
+
+nav li {
+	display: inline;
+	padding-right:50px
+}
+
+nav li a {
+	text-decoration: none;
+	color: #958B82;
+}
+
+nav li a:visited {
+    color: #958B82;
+}
+
+.indexcontent {
+	margin: 200px 0 100px;
+}
+
+.intro {
+	font-size: 2em;
+	font-weight: bold;
+	margin: auto;
+	padding: .5em;
+	width: 60%;
+	text-align: center;
+}
+
+.profile {
+	width: 220px;
+	margin: auto;
+	padding: .5em;
+	display: block;
+}
+
+div p {
+	padding: 1.5em;
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	line-height: 1.5em;	
+}
+
+div p a {
+	text-decoration: none;
+
+
+.socialmedia a {
+	padding: 0 4px;
+}
+
+.socialmedia img {
+	vertical-align: middle;
+	height: 32px;
+	width: 32px;
+	display: inline;
+}
+
+.projects {
+	margin: 200px auto;
+	width: 20%;
+	text-align: center;
+}
